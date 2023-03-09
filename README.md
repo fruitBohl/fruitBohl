@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fruitBohl
 - 👀 I’m interested in Maths and Computer Science
-- 🌱 I’m currently learning SQL and optimisation of algorithms.
+- 🌱 I’m currently studying Operations Research, Number Theory & Abstract Algebra and Coding & Cryptography
 - 📫 How to reach me: bohlharrison357@gmail.com
 
 <!---
