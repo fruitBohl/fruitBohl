@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fruitBohl
+- 👋 Hi, I’m Harrison
 - 👀 I’m interested in Maths and Computer Science
 - 🌱 I’m currently studying Operations Research, Number Theory & Abstract Algebra and Coding & Cryptography
 - 📫 How to reach me: bohlharrison357@gmail.com
