@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Harrison
 - 👀 I’m interested in Maths and Computer Science
-- 🌱 I’m currently studying Topics in Operations Research and Numerical Methods in Computational Science
-- 🌱 I'm currently learning about how to using linear programming to approximate the cheeger constant for graphs.
+- 🌱 At Uni: I’m currently studying Topics in Operations Research and Numerical Methods in Computational Science
+- 🌱 For Fun: I'm currently trying to improve graph visualisation in python.
 - 📫 How to reach me: bohlharrison357@gmail.com
 
 <!---
