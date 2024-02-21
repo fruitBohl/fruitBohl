@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Harrison
 - 👀 I’m interested in Maths and Computer Science
-- 🌱 I'm Currently studying Functional Analysis, Financial Mathematics and Bioimformatics.
+- 🌱 I'm Currently studying Functional Analysis, Financial Mathematics and Bioinformatics.
 - 🌱 For Fun: I'm currently investigating recursive prime generating functions.
 - 📫 How to reach me: bohlharrison357@gmail.com
 
