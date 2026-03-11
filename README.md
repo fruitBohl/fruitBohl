@@ -1,9 +1,11 @@
-### Recent Work: Click [here](https://arxiv.org/abs/2412.19618) for a preprint by Adrian and me on applying analytic number theory to graph theory.
-
-## 👋 Hi, I’m Harrison, I’m interested in Maths and Computer Science.
-- 🌱 I'm Currently studying advanced combinatorics and am completing my honours thesis with Adrian Dudek in sieve theory.
-- 🌱 I'm also working at Biarri as a Commerical Mathematician.
+### 👋 Hi, I’m Harrison, I’m interested in Maths and Computer Science.
+- 🌱 I'm currently working at Biarri as a Commerical Mathematician.
 - 📫 How to reach me: bohlharrison357@gmail.com
+
+## Some Things:
+- Click [here](https://agents.carey1.com) to see a website which me and my mates are working on.
+- Click [here](https://arxiv.org/abs/2412.19618) for a preprint by Adrian and me on applying analytic number theory to graph theory.
+- Click [here](https://www.tandfonline.com/doi/abs/10.1080/2573234X.2023.2239877) for a paper titled "A Shapley-value Index for Market Basket Analysis: Weighting Shapley’s Value"
 
 <!---
 fruitBohl/fruitBohl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
